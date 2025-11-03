@@ -1,0 +1,27 @@
+{
+  "Delhi": {
+    "fear": 0.65,
+    "confidence": 0.35,
+    "topics": ["late commute", "ride-hailing trust", "police response"]
+  },
+  "Pune": {
+    "fear": 0.42,
+    "confidence": 0.58,
+    "topics": ["office parks", "lighting upgrades", "community patrols"]
+  },
+  "Lucknow": {
+    "fear": 0.58,
+    "confidence": 0.42,
+    "topics": ["bus stands", "campus security", "neighborhood watch"]
+  },
+  "Jaipur": {
+    "fear": 0.5,
+    "confidence": 0.5,
+    "topics": ["market hours", "street lighting", "beat patrols"]
+  },
+  "Bengaluru": {
+    "fear": 0.47,
+    "confidence": 0.53,
+    "topics": ["tech corridors", "last-mile commute", "hostel policies"]
+  }
+}

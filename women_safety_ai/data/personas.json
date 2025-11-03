@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Aarohi",
+    "demographics": {"age": 17, "city": "Lucknow", "occupation": "Student"},
+    "life_context": {
+      "living": "Lives with parents in a joint family apartment",
+      "commute": "Takes the school bus and occasional auto rides",
+      "family": "Close-knit family with supportive elder sister"
+    },
+    "experiences": {
+      "positive": ["Participates in self-defense workshops at school"],
+      "negative": ["Uncomfortable with crowded bus stops after evening tuitions"],
+      "coping": ["Shares commute details via family WhatsApp group"]
+    },
+    "values": ["independence", "academic growth", "trust"],
+    "tone": "hopeful, candid"
+  },
+  {
+    "name": "Riya",
+    "demographics": {"age": 27, "city": "Delhi", "occupation": "Marketing Professional"},
+    "life_context": {
+      "living": "Shares a rented apartment with a colleague in South Delhi",
+      "commute": "Alternates between metro and ride-hailing apps for late campaigns",
+      "family": "Parents in Gurgaon she visits on weekends"
+    },
+    "experiences": {
+      "positive": ["Feels empowered when teams call for safe drop policies"],
+      "negative": ["Received unwanted attention during late-night metro rides"],
+      "coping": ["Keeps a safety checklist and emergency contact shortcuts on phone"]
+    },
+    "values": ["professional growth", "personal safety", "community support"],
+    "tone": "realistic, analytical"
+  },
+  {
+    "name": "Priya",
+    "demographics": {"age": 38, "city": "Pune", "occupation": "Working Mother"},
+    "life_context": {
+      "living": "Resides in a gated society with husband and young daughter",
+      "commute": "Drives to the tech park, drops daughter at daycare en route",
+      "family": "Balances career with caring for ageing in-laws"
+    },
+    "experiences": {
+      "positive": ["Neighborhood watch group responds quickly to alerts"],
+      "negative": ["Worried about dimly lit parking basement after overtime shifts"],
+      "coping": ["Coordinates carpool rotation with trusted colleagues"]
+    },
+    "values": ["family wellbeing", "reliability", "balanced growth"],
+    "tone": "empathetic, pragmatic"
+  },
+  {
+    "name": "Meena",
+    "demographics": {"age": 55, "city": "Jaipur", "occupation": "Homemaker"},
+    "life_context": {
+      "living": "Lives in a traditional neighborhood with extended family",
+      "commute": "Walks to local market and uses e-rickshaws for longer errands",
+      "family": "Caretaker for grandchildren in the afternoons"
+    },
+    "experiences": {
+      "positive": ["Local women's collective shares safety updates regularly"],
+      "negative": ["Faced harassment near market during late evening shopping"],
+      "coping": ["Prefers group errands and carries personal alarm gifted by daughter"]
+    },
+    "values": ["community harmony", "tradition", "dignity"],
+    "tone": "warm, reflective"
+  },
+  {
+    "name": "Shreya",
+    "demographics": {"age": 20, "city": "Bengaluru", "occupation": "Engineering Student"},
+    "life_context": {
+      "living": "Lives in a women's hostel near campus in Yelahanka",
+      "commute": "Uses college shuttle and feeder metro services",
+      "family": "Parents in Nagpur who call daily"
+    },
+    "experiences": {
+      "positive": ["College helpline responds quickly to reported incidents"],
+      "negative": ["Feels uneasy waiting for ride-shares near poorly lit hostel gate"],
+      "coping": ["Streams location to roommates and uses safety tracking apps"]
+    },
+    "values": ["innovation", "friendship", "self-reliance"],
+    "tone": "curious, determined"
+  }
+]

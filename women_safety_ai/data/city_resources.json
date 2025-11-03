@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "title": "NCRB Crime in India 2022 – Metropolitan data",
+      "summary": "The National Crime Records Bureau tracks crimes against women across India’s metropolitan cities, offering comparative statistics for policy discussions.",
+      "url": "https://www.ncrb.gov.in/en/crime-india"
+    },
+    {
+      "title": "Government of India Safe City Project overview",
+      "summary": "The national Safe City programme funds CCTV networks, command centres, and panic buttons in major urban areas through the Nirbhaya framework.",
+      "url": "http://india.gov.in/spotlight/safe-city-project"
+    }
+  ],
+  "Delhi": [
+    {
+      "title": "NCRB Crime in India 2022 – Delhi share",
+      "summary": "The 2022 NCRB report notes that Delhi records the highest volume of crimes against women among India’s metro areas, keeping safety top of mind for residents.",
+      "url": "https://www.ncrb.gov.in/en/crime-india"
+    },
+    {
+      "title": "Delhi crime and policing snapshot",
+      "summary": "Delhi’s city overview highlights policing measures such as women PCR vans, metro marshals, and hotspot monitoring around transit hubs.",
+      "url": "https://en.wikipedia.org/wiki/Delhi#Crime"
+    },
+    {
+      "title": "Delhi Police Facebook updates",
+      "summary": "Official posts share real-time safety advisories, night patrol locations, and campaign footage about the Himmat SOS app.",
+      "url": "https://www.facebook.com/DelhiPoliceOfficial"
+    },
+    {
+      "title": "Reddit community thread on harassment in Delhi neighbourhoods",
+      "summary": "First-hand account describing repeated harassment escalations and challenges in getting local police to intervene, highlighting day-to-day safety gaps.",
+      "url": "https://www.reddit.com/r/delhi/comments/1hjq36g/help_my_neighbour_has_been_seually_harassing/"
+    }
+  ],
+  "Lucknow": [
+    {
+      "title": "NCRB Crime in India 2022 – Lucknow metro tables",
+      "summary": "NCRB metropolitan tables include Lucknow, showing how reported harassment and assault cases trend across recent years.",
+      "url": "https://www.ncrb.gov.in/en/crime-india"
+    },
+    {
+      "title": "Lucknow policing and safety profile",
+      "summary": "City coverage documents initiatives like Pink Patrols, 1090 Women Power Line coordination, and CCTV expansion in crowded intersections.",
+      "url": "https://en.wikipedia.org/wiki/Lucknow#Crime"
+    },
+    {
+      "title": "1090 Women Power Line Facebook alerts",
+      "summary": "Daily posts cover survivor support resources, campus outreach drives, and helpline escalation stats for Uttar Pradesh.",
+      "url": "https://www.facebook.com/1090WomenPowerLine"
+    },
+    {
+      "title": "Reddit discussion on women’s safety collaboration in Lucknow",
+      "summary": "Local researchers and NGOs coordinate on improving One Stop Centres and reporting pathways, offering community perspectives beyond official data.",
+      "url": "https://www.reddit.com/r/lucknow/comments/1n76uru/calling_ngos_researchers_advocates_in_lucknow/"
+    }
+  ],
+  "Pune": [
+    {
+      "title": "NCRB Crime in India 2022 – Pune metro tables",
+      "summary": "The NCRB report lists Pune among lower-incidence metros, yet under-reporting remains a local concern in community consultations.",
+      "url": "https://www.ncrb.gov.in/en/crime-india"
+    },
+    {
+      "title": "Pune law and order overview",
+      "summary": "Pune’s civic profile references the city police’s dedicated women help desks and night patrols across IT corridors.",
+      "url": "https://en.wikipedia.org/wiki/Pune#Law_and_order"
+    },
+    {
+      "title": "Pune City Police Facebook briefings",
+      "summary": "Live updates highlight Safe City CCTV coverage, Bharosa centres, and volunteer escort programmes around Hinjawadi.",
+      "url": "https://www.facebook.com/PuneCityPolice"
+    },
+    {
+      "title": "Reddit thread reacting to the Swargate assault case",
+      "summary": "Residents discuss a high-profile assault near Swargate, critiquing night patrol coverage and sharing informal safety tactics.",
+      "url": "https://www.reddit.com/r/pune/comments/1iypd74/shame_the_swar_gate_rape_crime/"
+    }
+  ],
+  "Jaipur": [
+    {
+      "title": "NCRB Crime in India 2022 – Jaipur metro tables",
+      "summary": "NCRB data captures Jaipur’s position among tier-2 metros, used by civic bodies to track harassment and stalking complaints.",
+      "url": "https://www.ncrb.gov.in/en/crime-india"
+    },
+    {
+      "title": "Jaipur law and order snapshot",
+      "summary": "Jaipur’s civic profile covers initiatives including Abhay Command Center monitoring and all-women patrol units in busy bazaars.",
+      "url": "https://en.wikipedia.org/wiki/Jaipur#Law_and_order"
+    },
+    {
+      "title": "Jaipur Police Facebook advisories",
+      "summary": "Social media posts outline Hera Pheri squads, market safety marches, and SOS procedures during festival rush hours.",
+      "url": "https://www.facebook.com/JaipurPolice"
+    },
+    {
+      "title": "Reddit residents’ thread on night-time safety in Jaipur colonies",
+      "summary": "Community members highlight unsafe stretches and coordination gaps with municipal helplines, underscoring grassroots safety concerns.",
+      "url": "https://www.reddit.com/r/jaipur/comments/1mzqze2/street_dogs_have_taken_over_my_colony_in_jaipur/"
+    }
+  ],
+  "Bengaluru": [
+    {
+      "title": "NCRB Crime in India 2022 – Bengaluru metro tables",
+      "summary": "Bengaluru’s category in the NCRB report tracks offences ranging from workplace harassment to transit-linked stalking.",
+      "url": "https://www.ncrb.gov.in/en/crime-india"
+    },
+    {
+      "title": "Bengaluru law and order overview",
+      "summary": "The Bengaluru city profile outlines policing units such as Pink Hoysalas, Suraksha app integrations, and metro station vigil teams.",
+      "url": "https://en.wikipedia.org/wiki/Bangalore#Law_and_order"
+    },
+    {
+      "title": "Bengaluru City Police Facebook bulletins",
+      "summary": "The department streams Suraksha app tips, Pink Hoysala deployment maps, and late-night beat patrol alerts.",
+      "url": "https://www.facebook.com/BlrCityPolice"
+    },
+    {
+      "title": "Reddit thread on harassment at Bengaluru food distribution points",
+      "summary": "Citizens recount harassment during late-evening meal pick-ups, highlighting crowding and lighting issues near major transit hubs.",
+      "url": "https://www.reddit.com/r/bangalore/comments/1jxz5sr/women_cant_even_collect_food_without_being_messed/"
+    }
+  ]
+}

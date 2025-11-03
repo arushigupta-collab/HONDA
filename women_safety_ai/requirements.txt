@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+altair
+beautifulsoup4
+requests
+camelot-py
+pdfplumber
+pytest
